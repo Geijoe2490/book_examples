@@ -1,0 +1,8 @@
+C:\DEV\projects\book_examples\DockerandKubernetesforJavaDevelopers_Code\rest-example-master\src\main\java\pl\finsys\example\controller\BookController.java
+C:\DEV\projects\book_examples\DockerandKubernetesforJavaDevelopers_Code\rest-example-master\src\main\java\pl\finsys\example\service\BookServiceImpl.java
+C:\DEV\projects\book_examples\DockerandKubernetesforJavaDevelopers_Code\rest-example-master\src\main\java\pl\finsys\example\service\exception\BookAlreadyExistsException.java
+C:\DEV\projects\book_examples\DockerandKubernetesforJavaDevelopers_Code\rest-example-master\src\main\java\pl\finsys\example\BookstoreApplication.java
+C:\DEV\projects\book_examples\DockerandKubernetesforJavaDevelopers_Code\rest-example-master\src\main\java\pl\finsys\example\service\BookService.java
+C:\DEV\projects\book_examples\DockerandKubernetesforJavaDevelopers_Code\rest-example-master\src\main\java\pl\finsys\example\repository\BookRepository.java
+C:\DEV\projects\book_examples\DockerandKubernetesforJavaDevelopers_Code\rest-example-master\src\main\java\pl\finsys\example\domain\Book.java
+C:\DEV\projects\book_examples\DockerandKubernetesforJavaDevelopers_Code\rest-example-master\src\main\java\pl\finsys\example\configuration\SwaggerConfig.java
